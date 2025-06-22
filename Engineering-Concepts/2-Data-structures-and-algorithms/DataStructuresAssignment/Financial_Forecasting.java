@@ -1,7 +1,7 @@
 import myPackage.FutureForcast;
 import java.util.Scanner;
 
-public class Problem7 {
+public class Financial_Forecasting {
     public static void main(String[] args) {
         FutureForcast futureForcast = new FutureForcast();
         Scanner scanner = new Scanner(System.in);
@@ -25,6 +25,4 @@ public class Problem7 {
         scanner.close();
     }
 
-    // Time Complexity: O(n), where n is the number of years.
-    // Here there is a Space Complexity of O(n) due to the recursive stack space used by the function calls.
 }

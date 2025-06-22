@@ -2,7 +2,7 @@ import myPackage.EcommercePlatformSearchSystem;
 import myPackage.Product;
 import java.util.Scanner;
 
-public class Problem2 {
+public class E_commerce_Platform_Search_Function {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of products: ");
@@ -46,7 +46,11 @@ public class Problem2 {
     }
 
     // Time complexity analysis
-    // Linear Search: O(1) for best case, O(n) for average and worst case, where n is the number of products
-    // Binary Search: O(1) for best, O(log n) for average and worst case, where n is the number of products
-    // But the Binary search to be sorted so actually the BinarySearch function will take O(n log n) time to sort the products first, making the overall complexity O(n log n) for the binary search operation.
+    // Linear Search: O(1) for best case, O(n) for average and worst case, where n
+    // is the number of products
+    // Binary Search: O(1) for best, O(log n) for average and worst case, where n is
+    // the number of products
+    // But the Binary search to be sorted so actually the BinarySearch function will
+    // take O(n log n) time to sort the products first, making the overall
+    // complexity O(n log n) for the binary search operation.
 }
