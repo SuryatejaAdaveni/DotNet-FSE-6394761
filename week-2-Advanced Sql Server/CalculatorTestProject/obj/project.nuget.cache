@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rHDjVzvdwt8=",
+  "dgSpecHash": "Jlcmsqk3/f8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\CalculatorTestProject\\CalculatorTestProject.csproj",
+  "projectFilePath": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\DotNet-FSE\\week-2-Advanced Sql Server\\CalculatorTestProject\\CalculatorTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\surya\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\surya\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

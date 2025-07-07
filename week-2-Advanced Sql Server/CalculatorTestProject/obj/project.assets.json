@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\CalculatorTestProject\\CalculatorTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\DotNet-FSE\\week-2-Advanced Sql Server\\CalculatorTestProject\\CalculatorTestProject.csproj",
       "projectName": "CalculatorTestProject",
-      "projectPath": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\CalculatorTestProject\\CalculatorTestProject.csproj",
+      "projectPath": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\DotNet-FSE\\week-2-Advanced Sql Server\\CalculatorTestProject\\CalculatorTestProject.csproj",
       "packagesPath": "C:\\Users\\surya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\CalculatorTestProject\\obj\\",
+      "outputPath": "C:\\Users\\surya\\OneDrive\\Desktop\\Cognizant\\DotNet-FSE\\week-2-Advanced Sql Server\\CalculatorTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\surya\\AppData\\Roaming\\NuGet\\NuGet.Config"
